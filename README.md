@@ -1,4 +1,6 @@
 # Parallaxe
+[Amaury FAUVEL](https://github.com/Amaury-F) & [Rym OUENZAR](https://github.com/RymOUENZAR)
+
 ## Un projet Unity avec emguCV
 https://www.youtube.com/watch?v=B_UIfFA77pk
 
